@@ -35,4 +35,4 @@ Do coffee shops located in Republican cities receive higher average ratings than
 
 ## Tools Used
 - Python (pandas, Jupyter Notebook)
-- R (RStudio)
+- RStudio (regression analysis)
