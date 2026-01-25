@@ -19,7 +19,7 @@ Do coffee shops located in Republican cities receive higher average ratings than
 ## Methodology
 - Data loading and cleaning using Python (pandas)
 - Data wrangling and feature integration across multiple datasets
-- Multiple linear regression analysis conducted in R
+- Multiple linear regression analysis conducted in RStudio
 - Hypothesis testing and interpretation of regression results
 
 ## Key Findings
